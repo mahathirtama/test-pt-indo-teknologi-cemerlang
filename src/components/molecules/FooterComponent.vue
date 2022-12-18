@@ -28,7 +28,6 @@ export default {
   box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.15);
   display: flex;
   align-items: center;
-  justify-content: center;
   color: #ffffff;
 }
 
@@ -43,5 +42,6 @@ p {
   height: 108px;
   left: 271px;
   top: 1230px;
+  margin-left: 273px;
 }
 </style>
