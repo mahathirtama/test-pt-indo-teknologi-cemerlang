@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <p>{{ filmById.Title }}</p>
+    <p>{{ filmById.Title }} (+17)</p>
     <div class="wrap-content">
       <img :src="filmById.Poster" alt="" class="image" />
       <div class="text-content">
